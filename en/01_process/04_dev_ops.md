@@ -1,5 +1,12 @@
 ## DevOps
 
+DevOps is the collaborative work of teams charged with developing and operating software from design, to development, to testing and support. 
+Collaboration means breaking down silos between development, operations, and quality teams. 
+Working together we produce code that automates the building, testing, and deploying of application code. 
+Rather than slowing the pace of change, we develop the automation necessary to frequently change systems with quality gates that deliver stability and speed.
+
+VMLY&R’s reference architecture for application delivery and deployment covers the lifecycle of code from when it is written until that code reaches production systems to deliver value to the customer journey.
+
 ### A Brief Account of DevOps
 
 Accounts of DevOps are often told as stories.
@@ -14,7 +21,18 @@ One of the first public expressions of what "Agile Infrastructure" or "Agile Sys
 John Allspaw and Paul Hammond described the process and tools they used to achieve more than ten deploys per day.[^TenPerDay] 
 
 <!-- Brief Agile at VMLY&R -->
-The DevOps journey at VMLY&R began as operations teams searched for better ways to support the rapid pace of work in an agency.
+The DevOps journey at VMLY&R began in 2013 as development and operations teams searched for better ways to support the rapid pace of work in an agency.
+The scripts and manual processes that we had used were not sustainable or scalable enough to deliver as development efforts switched from Waterfall to Agile methodologies.
+That effort started with destroying the silos that prevented teams from working together.
+Our collaboration produced automation that enabled teams to build, unit test and deploy code rapidly with greater confidence.
+As that automation matured, incremental improvements added additional testing from our Quality teams to implement stricter quality gates into application deployment pipelines.
+
+Because DevOps is more about removing silos, we treat automation, scripts and pipelines as tools, not the product of DevOps.
+We are committed to measuring, refining and improving those tools to improve our application delivery process.
+We constantly ask the questions: "how might we improve this process?"
+"What did we learn from this experiment?"
+"Why did this failure occur?"
+Asking these questions is the key to learning and continually improving.
 
 
 <!-- Agile and DevOps connection to journey driven devs -->
